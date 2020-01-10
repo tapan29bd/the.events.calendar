@@ -1,0 +1,7 @@
+DOC/*
+db-data/*
+!/db-data/.gitkeep
+wordpress/*
+!/wordpress/.gitkeep
+logs/*
+.env
