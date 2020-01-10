@@ -57,7 +57,7 @@ services:
     ports:
       - 8000:80
     links:
-      - mysql
+      - db
     environment:
       PMA_HOST: mysql
 
